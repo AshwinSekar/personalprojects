@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Login to Ambiance</title>
+<script src="http://www.parsecdn.com/js/parse-1.2.8.min.js"></script>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+Parse.initialize("P1hUoPn1qaDRwVKBYZVxumY57MKu7z0nhNuuc3UO", "z991cI9HoAetgN4n0VF3m3CIp7M1AGpMliGI0mTd");
+  window.fbAsyncInit = function() {
+    // init the FB JS SDK
+  Parse.FacebookUtils.init({
+      appId      : '129579383914659',                        // App ID from the app dashboard
+      channelUrl : 'channel.html', // Channel file for x-domain comms
+      cookie     : true, // enable cookies to allow Parse to access the session
+      status     : true,                                 // Check Facebook Login status
+      xfbml      : true                                  // Look for social plugins on the page
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+  };
+  function login() {
+  Parse.FacebookUtils.logIn(null, {
+	  success: function(user) {
+	    if (!user.existed()) {
+	      alert("User signed up and logged in through Facebook!");
+	    } else {
+	      alert("User logged in through Facebook!");
+	    }
+	  },
+	  error: function(user, error) {
+	    alert("User cancelled the Facebook login or did not fully authorize.");
+	  }
+	});
+  }
+  // Load the SDK asynchronously
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "http://connect.facebook.net/en_US/all.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+ </script>
+
+
+
+<form>
+<input type="button" name="Login" value= "Login" id="Login" onclick="login()"/>
+</form>
+</body>
+</html>

@@ -1,0 +1,3215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocab>
+	<vocablist Unit="Fine_Arts">
+		<word>
+			<spanish>elementos del arte</spanish>
+			<english>elements of art</english>
+		</word>
+		<word>
+			<spanish>línea</spanish>
+			<english>line</english>
+		</word>
+		<word>
+			<spanish>forma</spanish>
+			<english>shape, form</english>
+		</word>
+		<word>
+			<spanish>espacio</spanish>
+			<english>space</english>
+		</word>
+		<word>
+			<spanish>el color</spanish>
+			<english>color</english>
+		</word>
+		<word>
+			<spanish>textura</spanish>
+			<english>texture</english>
+		</word>
+		<word>
+			<spanish>el valor</spanish>
+			<english>value</english>
+		</word>
+		<word>
+			<spanish>las dimensiones</spanish>
+			<english>dimensions</english>
+		</word>
+		<word>
+			<spanish>largura</spanish>
+			<english>length</english>
+		</word>
+		<word>
+			<spanish>altura</spanish>
+			<english>height</english>
+		</word>
+		<word>
+			<spanish>anchura</spanish>
+			<english>width</english>
+		</word>
+		<word>
+			<spanish>reglas del diseño</spanish>
+			<english>rules of design</english>
+		</word>
+		<word>
+			<spanish>ritmo</spanish>
+			<english>rhythm</english>
+		</word>
+		<word>
+			<spanish>movimiento</spanish>
+			<english>movement</english>
+		</word>
+		<word>
+			<spanish>el balance</spanish>
+			<english>balance</english>
+		</word>
+		<word>
+			<spanish>la proporción</spanish>
+			<english>proportion</english>
+		</word>
+		<word>
+			<spanish>la variedad</spanish>
+			<english>variety</english>
+		</word>
+		<word>
+			<spanish>el énfasis</spanish>
+			<english>emphasis</english>
+		</word>
+		<word>
+			<spanish>la unidad</spanish>
+			<english>unity</english>
+		</word>
+		<word>
+			<spanish>sujeto</spanish>
+			<english>subject</english>
+		</word>
+		<word>
+			<spanish>forma</spanish>
+			<english>form</english>
+		</word>
+		<word>
+			<spanish>contenido</spanish>
+			<english>content</english>
+		</word>
+		<word>
+			<spanish>crítica del arte</spanish>
+			<english>art critique</english>
+		</word>
+		<word>
+			<spanish>la descripción</spanish>
+			<english>description</english>
+		</word>
+		<word>
+			<spanish>el análisis</spanish>
+			<english>analysis</english>
+		</word>
+		<word>
+			<spanish>la interpretación</spanish>
+			<english>interpretation</english>
+		</word>
+		<word>
+			<spanish>juicio</spanish>
+			<english>judgment</english>
+		</word>
+		<word>
+			<spanish>imitacionalismo</spanish>
+			<english>imitationalism</english>
+		</word>
+		<word>
+			<spanish>formalismo</spanish>
+			<english>formalism</english>
+		</word>
+		<word>
+			<spanish>emocionalismo</spanish>
+			<english>emotionalism</english>
+		</word>
+		<word>
+			<spanish>la construcción</spanish>
+			<english>construction</english>
+		</word>
+		<word>
+			<spanish>edificio</spanish>
+			<english>building</english>
+		</word>
+		<word>
+			<spanish>construir</spanish>
+			<english>to construct, build</english>
+		</word>
+		<word>
+			<spanish>el/la arquitecto (-a)</spanish>
+			<english>arquitect</english>
+		</word>
+		<word>
+			<spanish>obrero</spanish>
+			<english>(construction) worker</english>
+		</word>
+		<word>
+			<spanish>el albañil</spanish>
+			<english>mason, bricklayer</english>
+		</word>
+		<word>
+			<spanish>electricista</spanish>
+			<english>electrician</english>
+		</word>
+		<word>
+			<spanish>fontanero</spanish>
+			<english>plumber</english>
+		</word>
+		<word>
+			<spanish>diseño</spanish>
+			<english>design</english>
+		</word>
+		<word>
+			<spanish>ladrillo</spanish>
+			<english>brick</english>
+		</word>
+		<word>
+			<spanish>estuco</spanish>
+			<english>stucco</english>
+		</word>
+		<word>
+			<spanish>cemento</spanish>
+			<english>cement</english>
+		</word>
+		<word>
+			<spanish>vidrio</spanish>
+			<english>glass</english>
+		</word>
+		<word>
+			<spanish>el metal</spanish>
+			<english>metal</english>
+		</word>
+		<word>
+			<spanish>barro</spanish>
+			<english>clay</english>
+		</word>
+		<word>
+			<spanish>madera</spanish>
+			<english>wood</english>
+		</word>
+		<word>
+			<spanish>mármol</spanish>
+			<english>marble</english>
+		</word>
+		<word>
+			<spanish>la catedral</spanish>
+			<english>cathedral</english>
+		</word>
+		<word>
+			<spanish>capilla</spanish>
+			<english>chapel</english>
+		</word>
+		<word>
+			<spanish>vidriera</spanish>
+			<english>stained-glass window</english>
+		</word>
+		<word>
+			<spanish>castillo</spanish>
+			<english>castle</english>
+		</word>
+		<word>
+			<spanish>el nivel</spanish>
+			<english>level</english>
+		</word>
+		<word>
+			<spanish>el puente</spanish>
+			<english>bridge</english>
+		</word>
+		<word>
+			<spanish>acueducto</spanish>
+			<english>aqueduct</english>
+		</word>
+		<word>
+			<spanish>arco triunfo</spanish>
+			<english>triumphal arch</english>
+		</word>
+		<word>
+			<spanish>carretera</spanish>
+			<english>highway</english>
+		</word>
+		<word>
+			<spanish>el exterior</spanish>
+			<english>exterior</english>
+		</word>
+		<word>
+			<spanish>arco</spanish>
+			<english>arch</english>
+		</word>
+		<word>
+			<spanish>techo</spanish>
+			<english>roof</english>
+		</word>
+		<word>
+			<spanish>la torre</spanish>
+			<english>tower</english>
+		</word>
+		<word>
+			<spanish>cúpula</spanish>
+			<english>dome, cupola</english>
+		</word>
+		<word>
+			<spanish>contrafuerte</spanish>
+			<english>buttress</english>
+		</word>
+		<word>
+			<spanish>arbotante</spanish>
+			<english>flying buttress</english>
+		</word>
+		<word>
+			<spanish>paleolítico</spanish>
+			<english>Paleolithic</english>
+		</word>
+		<word>
+			<spanish>rupestre griego</spanish>
+			<english>Greek</english>
+		</word>
+		<word>
+			<spanish>romano</spanish>
+			<english>Roman</english>
+		</word>
+		<word>
+			<spanish>bizantino</spanish>
+			<english>Byzantine</english>
+		</word>
+		<word>
+			<spanish>árabe</spanish>
+			<english>Arabic, Moorish</english>
+		</word>
+		<word>
+			<spanish>mudéjar militar</spanish>
+			<english>Mudejar military</english>
+		</word>
+		<word>
+			<spanish>románico gótico</spanish>
+			<english>Romanesque Gothic</english>
+		</word>
+		<word>
+			<spanish>medieval</spanish>
+			<english>medieval</english>
+		</word>
+		<word>
+			<spanish>plateresco clásico</spanish>
+			<english>Plateresque Classical</english>
+		</word>
+		<word>
+			<spanish>herreriano</spanish>
+			<english>Herrerian</english>
+		</word>
+		<word>
+			<spanish>barroco</spanish>
+			<english>Baroque</english>
+		</word>
+		<word>
+			<spanish>neoclásico</spanish>
+			<english>Neo-Classical</english>
+		</word>
+		<word>
+			<spanish>modernista</spanish>
+			<english>modern</english>
+		</word>
+		<word>
+			<spanish>surrealista</spanish>
+			<english>surrealist</english>
+		</word>
+		<word>
+			<spanish>cubista</spanish>
+			<english>cubist</english>
+		</word>
+		<word>
+			<spanish>pintura</spanish>
+			<english>painting</english>
+		</word>
+		<word>
+			<spanish>icono</spanish>
+			<english>icon</english>
+		</word>
+		<word>
+			<spanish>retrato</spanish>
+			<english>portrait</english>
+		</word>
+		<word>
+			<spanish>real</spanish>
+			<english>royal</english>
+		</word>
+		<word>
+			<spanish>familiar</spanish>
+			<english>of the family</english>
+		</word>
+		<word>
+			<spanish>de la corte</spanish>
+			<english>of the court</english>
+		</word>
+		<word>
+			<spanish>fresco</spanish>
+			<english>fresco</english>
+		</word>
+		<word>
+			<spanish>dibujo</spanish>
+			<english>drawing</english>
+		</word>
+		<word>
+			<spanish>el mural</spanish>
+			<english>mural</english>
+		</word>
+		<word>
+			<spanish>el cartón</spanish>
+			<english>cartoon, sketch</english>
+		</word>
+		<word>
+			<spanish>el tapiz</spanish>
+			<english>tapestry</english>
+		</word>
+		<word>
+			<spanish>la aguafuerte</spanish>
+			<english>etching</english>
+		</word>
+		<word>
+			<spanish>acuarela</spanish>
+			<english>watercolor</english>
+		</word>
+		<word>
+			<spanish>litografía</spanish>
+			<english>lithograph</english>
+		</word>
+		<word>
+			<spanish>pintor</spanish>
+			<english>painter</english>
+		</word>
+		<word>
+			<spanish>de cámara court</spanish>
+			<english></english>
+		</word>
+		<word>
+			<spanish>la colección</spanish>
+			<english>collection</english>
+		</word>
+		<word>
+			<spanish>el color</spanish>
+			<english>color</english>
+		</word>
+		<word>
+			<spanish>brillante</spanish>
+			<english>brilliant</english>
+		</word>
+		<word>
+			<spanish>cálido</spanish>
+			<english>warm</english>
+		</word>
+		<word>
+			<spanish>oscuro</spanish>
+			<english>dark</english>
+		</word>
+		<word>
+			<spanish>suave</spanish>
+			<english>soft</english>
+		</word>
+		<word>
+			<spanish>vivo</spanish>
+			<english>bright, lively</english>
+		</word>
+		<word>
+			<spanish>la composición</spanish>
+			<english>composition</english>
+		</word>
+		<word>
+			<spanish>armoniosa</spanish>
+			<english>harmonious</english>
+		</word>
+		<word>
+			<spanish>histórica</spanish>
+			<english>historical</english>
+		</word>
+		<word>
+			<spanish>mitológica</spanish>
+			<english>mythological</english>
+		</word>
+		<word>
+			<spanish>profana</spanish>
+			<english>profane, worldly (not sacred)</english>
+		</word>
+		<word>
+			<spanish>religiosa</spanish>
+			<english>religious</english>
+		</word>
+		<word>
+			<spanish>sagrada</spanish>
+			<english>sacred, holy</english>
+		</word>
+		<word>
+			<spanish>seglar</spanish>
+			<english>secular</english>
+		</word>
+		<word>
+			<spanish>criticismo</spanish>
+			<english>criticism</english>
+		</word>
+		<word>
+			<spanish>político</spanish>
+			<english>political</english>
+		</word>
+		<word>
+			<spanish>religioso</spanish>
+			<english>religious</english>
+		</word>
+		<word>
+			<spanish>social</spanish>
+			<english>social</english>
+		</word>
+		<word>
+			<spanish>los detalles</spanish>
+			<english>details</english>
+		</word>
+		<word>
+			<spanish>escena</spanish>
+			<english>scene</english>
+		</word>
+		<word>
+			<spanish>espacio etapa figuras</spanish>
+			<english>space stage, period figures</english>
+		</word>
+		<word>
+			<spanish>la interpretación</spanish>
+			<english>interpretation</english>
+		</word>
+		<word>
+			<spanish>la luz</spanish>
+			<english>light</english>
+		</word>
+		<word>
+			<spanish>el matiz</spanish>
+			<english>shade, hue</english>
+		</word>
+		<word>
+			<spanish>movimientos</spanish>
+			<english>movements</english>
+		</word>
+		<word>
+			<spanish>ondulantes</spanish>
+			<english>flowing</english>
+		</word>
+		<word>
+			<spanish>perspectiva</spanish>
+			<english>perspective</english>
+		</word>
+		<word>
+			<spanish>pinceladas</spanish>
+			<english>strokes (of a brush)</english>
+		</word>
+		<word>
+			<spanish>amplias</spanish>
+			<english>wide, full</english>
+		</word>
+		<word>
+			<spanish>cortas</spanish>
+			<english>short</english>
+		</word>
+		<word>
+			<spanish>desdibujadas</spanish>
+			<english>blurred</english>
+		</word>
+		<word>
+			<spanish>ligeras</spanish>
+			<english>light</english>
+		</word>
+		<word>
+			<spanish>precisas</spanish>
+			<english>precise</english>
+		</word>
+		<word>
+			<spanish>sueltas</spanish>
+			<english>loose</english>
+		</word>
+		<word>
+			<spanish>sentimientos</spanish>
+			<english>feelings</english>
+		</word>
+		<word>
+			<spanish>el técnica tema</spanish>
+			<english>technique theme</english>
+		</word>
+		<word>
+			<spanish>tenebrismo</spanish>
+			<english>(contrasting dark and light)</english>
+		</word>
+		<word>
+			<spanish>tono</spanish>
+			<english>tone</english>
+		</word>
+		<word>
+			<spanish>claro</spanish>
+			<english>clear</english>
+		</word>
+		<word>
+			<spanish>tenue</spanish>
+			<english>tenuous, delicate</english>
+		</word>
+		<word>
+			<spanish>incorporar</spanish>
+			<english>to incorporate</english>
+		</word>
+		<word>
+			<spanish>influir</spanish>
+			<english>to influence</english>
+		</word>
+		<word>
+			<spanish>pintar</spanish>
+			<english>to paint</english>
+		</word>
+		<word>
+			<spanish>retratar</spanish>
+			<english>to paint a portrait</english>
+		</word>
+		<word>
+			<spanish>tener éxito</spanish>
+			<english>to be successful</english>
+		</word>
+		<word>
+			<spanish>el pentagrama</spanish>
+			<english>staff</english>
+		</word>
+		<word>
+			<spanish>línea</spanish>
+			<english>line</english>
+		</word>
+		<word>
+			<spanish>espacio</spanish>
+			<english>space</english>
+		</word>
+		<word>
+			<spanish>línea suplementaria</spanish>
+			<english>ledger line</english>
+		</word>
+		<word>
+			<spanish>las claves</spanish>
+			<english>clefs</english>
+		</word>
+		<word>
+			<spanish>la clave de sol</spanish>
+			<english>treble clef, G clef</english>
+		</word>
+		<word>
+			<spanish>la clave de fa</spanish>
+			<english>bass clef, F clef</english>
+		</word>
+		<word>
+			<spanish>la clave de do</spanish>
+			<english>C clef</english>
+		</word>
+		<word>
+			<spanish>escala</spanish>
+			<english>scale</english>
+		</word>
+		<word>
+			<spanish>do</spanish>
+			<english>C</english>
+		</word>
+		<word>
+			<spanish>re</spanish>
+			<english>D</english>
+		</word>
+		<word>
+			<spanish>mi</spanish>
+			<english>E</english>
+		</word>
+		<word>
+			<spanish>fa</spanish>
+			<english>F</english>
+		</word>
+		<word>
+			<spanish>sol</spanish>
+			<english>G</english>
+		</word>
+		<word>
+			<spanish>la</spanish>
+			<english>A</english>
+		</word>
+		<word>
+			<spanish>si</spanish>
+			<english>B</english>
+		</word>
+		<word>
+			<spanish>do</spanish>
+			<english>C</english>
+		</word>
+		<word>
+			<spanish>los valores de las notas</spanish>
+			<english>note symbols</english>
+		</word>
+		<word>
+			<spanish>redonda (unidad)</spanish>
+			<english>whole note</english>
+		</word>
+		<word>
+			<spanish>blanca (mitad)</spanish>
+			<english>half note</english>
+		</word>
+		<word>
+			<spanish>negra (curato)</spanish>
+			<english>quarter note</english>
+		</word>
+		<word>
+			<spanish>los valores de los silencios</spanish>
+			<english>rest symbols</english>
+		</word>
+		<word>
+			<spanish>la unidad</spanish>
+			<english>whole rest</english>
+		</word>
+		<word>
+			<spanish>la mitad</spanish>
+			<english>half rest</english>
+		</word>
+		<word>
+			<spanish>cuarto</spanish>
+			<english>quarter rest</english>
+		</word>
+		<word>
+			<spanish>octavo</spanish>
+			<english>eighth rest</english>
+		</word>
+		<word>
+			<spanish>el compás</spanish>
+			<english>time</english>
+		</word>
+		<word>
+			<spanish>de dos mitades</spanish>
+			<english>two-two time</english>
+		</word>
+		<word>
+			<spanish>de tres cuartos</spanish>
+			<english>three-four time</english>
+		</word>
+		<word>
+			<spanish>de cuatro cuartos</spanish>
+			<english>four-four time</english>
+		</word>
+		<word>
+			<spanish>barra de compás</spanish>
+			<english>bar line</english>
+		</word>
+		<word>
+			<spanish>barra de repetición</spanish>
+			<english>repeat mark</english>
+		</word>
+		<word>
+			<spanish>los accidentes</spanish>
+			<english>accidentals</english>
+		</word>
+		<word>
+			<spanish>sostenido</spanish>
+			<english>sharp</english>
+		</word>
+		<word>
+			<spanish>bemol</spanish>
+			<english>flat</english>
+		</word>
+		<word>
+			<spanish>becuadro</spanish>
+			<english>natural</english>
+		</word>
+		<word>
+			<spanish>doble sostenido</spanish>
+			<english>double sharp</english>
+		</word>
+		<word>
+			<spanish>doble bemol</spanish>
+			<english>double flat</english>
+		</word>
+		<word>
+			<spanish>armadura</spanish>
+			<english>key signature</english>
+		</word>
+		<word>
+			<spanish>sonido</spanish>
+			<english>sound</english>
+		</word>
+		<word>
+			<spanish>tono</spanish>
+			<english>tone, pitch, key</english>
+		</word>
+		<word>
+			<spanish>dinámicos</spanish>
+			<english>dynamics</english>
+		</word>
+		<word>
+			<spanish>intervalo</spanish>
+			<english>interval</english>
+		</word>
+		<word>
+			<spanish>la duración</spanish>
+			<english>duration</english>
+		</word>
+		<word>
+			<spanish>registro</spanish>
+			<english>range</english>
+		</word>
+		<word>
+			<spanish>el timbre</spanish>
+			<english>timbre (tone color)</english>
+		</word>
+		<word>
+			<spanish>ritmo</spanish>
+			<english>rhythm</english>
+		</word>
+		<word>
+			<spanish>tiempo</spanish>
+			<english>beat</english>
+		</word>
+		<word>
+			<spanish>el compás</spanish>
+			<english>time</english>
+		</word>
+		<word>
+			<spanish>tempo</spanish>
+			<english>tempo</english>
+		</word>
+		<word>
+			<spanish>largo</spanish>
+			<english>very slow, broad</english>
+		</word>
+		<word>
+			<spanish>grave</spanish>
+			<english>very slow, solemn</english>
+		</word>
+		<word>
+			<spanish>adagio</spanish>
+			<english>slow</english>
+		</word>
+		<word>
+			<spanish>andante</spanish>
+			<english>moderately slow, a walking pace</english>
+		</word>
+		<word>
+			<spanish>moderato</spanish>
+			<english>moderate</english>
+		</word>
+		<word>
+			<spanish>allegretto</spanish>
+			<english>moderately fast</english>
+		</word>
+		<word>
+			<spanish>allegro</spanish>
+			<english>fast</english>
+		</word>
+		<word>
+			<spanish>vivace</spanish>
+			<english>lively</english>
+		</word>
+		<word>
+			<spanish>presto</spanish>
+			<english>very fast</english>
+		</word>
+		<word>
+			<spanish>prestissimo</spanish>
+			<english>as fast as possible</english>
+		</word>
+		<word>
+			<spanish>melodía</spanish>
+			<english>melody</english>
+		</word>
+		<word>
+			<spanish>legato</spanish>
+			<english>legato</english>
+		</word>
+		<word>
+			<spanish>staccato</spanish>
+			<english>staccato</english>
+		</word>
+		<word>
+			<spanish>cadencia</spanish>
+			<english>cadence</english>
+		</word>
+		<word>
+			<spanish>secuencia</spanish>
+			<english>sequence</english>
+		</word>
+		<word>
+			<spanish>el tema</spanish>
+			<english>theme</english>
+		</word>
+		<word>
+			<spanish>armonía</spanish>
+			<english>harmony</english>
+		</word>
+		<word>
+			<spanish>acorde</spanish>
+			<english>chord</english>
+		</word>
+		<word>
+			<spanish>consonancia</spanish>
+			<english>consonance</english>
+		</word>
+		<word>
+			<spanish>disonancia</spanish>
+			<english>dissonance</english>
+		</word>
+		<word>
+			<spanish>la resolución</spanish>
+			<english>resolution</english>
+		</word>
+		<word>
+			<spanish>tríada</spanish>
+			<english>triad</english>
+		</word>
+		<word>
+			<spanish>textura musical</spanish>
+			<english>musical textura</english>
+		</word>
+		<word>
+			<spanish>monofonía</spanish>
+			<english>monophony</english>
+		</word>
+		<word>
+			<spanish>unisonanc ia</spanish>
+			<english>unison</english>
+		</word>
+		<word>
+			<spanish>polifonía</spanish>
+			<english>polyphony</english>
+		</word>
+		<word>
+			<spanish>contrapunto</spanish>
+			<english>counterpoint</english>
+		</word>
+		<word>
+			<spanish>acotaciones escénicas</spanish>
+			<english>stage directions</english>
+		</word>
+		<word>
+			<spanish>la aliteración</spanish>
+			<english>alliteration</english>
+		</word>
+		<word>
+			<spanish>la alusión</spanish>
+			<english>allusion</english>
+		</word>
+		<word>
+			<spanish>el ambiente</spanish>
+			<english>atmosphere</english>
+		</word>
+		<word>
+			<spanish>la anticipación</spanish>
+			<english>foreshadowing</english>
+		</word>
+		<word>
+			<spanish>el aparte</spanish>
+			<english>aside</english>
+		</word>
+		<word>
+			<spanish>atmósfera</spanish>
+			<english>atmosphere</english>
+		</word>
+		<word>
+			<spanish>la caracterización</spanish>
+			<english>characterization</english>
+		</word>
+		<word>
+			<spanish>diálogo</spanish>
+			<english>dialogue</english>
+		</word>
+		<word>
+			<spanish>el drama</spanish>
+			<english>drama</english>
+		</word>
+		<word>
+			<spanish>escenografía</spanish>
+			<english>scenery</english>
+		</word>
+		<word>
+			<spanish>efecto</spanish>
+			<english>effect</english>
+		</word>
+		<word>
+			<spanish>el flashback</spanish>
+			<english>flashback</english>
+		</word>
+		<word>
+			<spanish>la hipérbole</spanish>
+			<english>hyperbole</english>
+		</word>
+		<word>
+			<spanish>la imagen</spanish>
+			<english>image</english>
+		</word>
+		<word>
+			<spanish>ironía</spanish>
+			<english>irony</english>
+		</word>
+		<word>
+			<spanish>el lenguaje figurado</spanish>
+			<english>figurative language</english>
+		</word>
+		<word>
+			<spanish>metáfora</spanish>
+			<english>metaphor</english>
+		</word>
+		<word>
+			<spanish>onomatopeya</spanish>
+			<english>onomatopoeia</english>
+		</word>
+		<word>
+			<spanish>paralelismo</spanish>
+			<english>parallelism</english>
+		</word>
+		<word>
+			<spanish>parodia</spanish>
+			<english>parody</english>
+		</word>
+		<word>
+			<spanish>realismo</spanish>
+			<english>realism</english>
+		</word>
+		<word>
+			<spanish>la repetición</spanish>
+			<english>repetition</english>
+		</word>
+		<word>
+			<spanish>rima</spanish>
+			<english>rhyme</english>
+		</word>
+		<word>
+			<spanish>ritmo</spanish>
+			<english>rhythm</english>
+		</word>
+		<word>
+			<spanish>semblanza</spanish>
+			<english>biographical sketch</english>
+		</word>
+		<word>
+			<spanish>el símil</spanish>
+			<english>simile</english>
+		</word>
+		<word>
+			<spanish>soneto</spanish>
+			<english>sonnet</english>
+		</word>
+		<word>
+			<spanish>tono</spanish>
+			<english>tone</english>
+		</word>
+		<word>
+			<spanish>el trama</spanish>
+			<english>plot, scheme</english>
+		</word>
+		<word>
+			<spanish>verso libre</spanish>
+			<english>free verse</english>
+		</word>
+	</vocablist>
+	<vocablist Unit="History_Politics_and_Social_Issues">
+		<word>
+			<spanish>los problemas causados por la gente</spanish>
+			<english>problems caused by people</english>
+		</word>
+		<word>
+			<spanish>pobreza</spanish>
+			<english>poverty</english>
+		</word>
+		<word>
+			<spanish>vivienda</spanish>
+			<english>housing</english>
+		</word>
+		<word>
+			<spanish>carencia de hogar</spanish>
+			<english>homelessness</english>
+		</word>
+		<word>
+			<spanish>superpoblación</spanish>
+			<english>overpopulation</english>
+		</word>
+		<word>
+			<spanish>desempleo, paro</spanish>
+			<english>unemployment</english>
+		</word>
+		<word>
+			<spanish>contaminación (del aire, del agua)</spanish>
+			<english>(air, water) pollution</english>
+		</word>
+		<word>
+			<spanish>hambre</spanish>
+			<english>hunger</english>
+		</word>
+		<word>
+			<spanish>prejuicio</spanish>
+			<english>prejudice</english>
+		</word>
+		<word>
+			<spanish>abuso</spanish>
+			<english>abuse</english>
+		</word>
+		<word>
+			<spanish>abandono</spanish>
+			<english>neglect</english>
+		</word>
+		<word>
+			<spanish>drogas</spanish>
+			<english>drugs</english>
+		</word>
+		<word>
+			<spanish>adicción</spanish>
+			<english>addiction</english>
+		</word>
+		<word>
+			<spanish>narcotráfico</spanish>
+			<english>drug dealing</english>
+		</word>
+		<word>
+			<spanish>alcoholismo</spanish>
+			<english>alcoholism</english>
+		</word>
+		<word>
+			<spanish>tabaquismo</spanish>
+			<english>nicotinism</english>
+		</word>
+		<word>
+			<spanish>armas de fuego</spanish>
+			<english>firearms</english>
+		</word>
+		<word>
+			<spanish>banda, pandilla</spanish>
+			<english>gang</english>
+		</word>
+		<word>
+			<spanish>terrorismo</spanish>
+			<english>terrorism</english>
+		</word>
+		<word>
+			<spanish>secuestro</spanish>
+			<english>kidnapping, hijacking</english>
+		</word>
+		<word>
+			<spanish>asesinato</spanish>
+			<english>murder</english>
+		</word>
+		<word>
+			<spanish>homicidio</spanish>
+			<english>murder</english>
+		</word>
+		<word>
+			<spanish>suicidio</spanish>
+			<english>suicide</english>
+		</word>
+		<word>
+			<spanish>amenaza de bomba</spanish>
+			<english>threat</english>
+		</word>
+		<word>
+			<spanish>incendio premeditato</spanish>
+			<english>arson</english>
+		</word>
+		<word>
+			<spanish>crimen, delito</spanish>
+			<english>crime</english>
+		</word>
+		<word>
+			<spanish>robo</spanish>
+			<english>theft, burglary, robbery</english>
+		</word>
+		<word>
+			<spanish>falsificación</spanish>
+			<english>forgery</english>
+		</word>
+		<word>
+			<spanish>promiscuidad</spanish>
+			<english>promiscuity</english>
+		</word>
+		<word>
+			<spanish>prostitución</spanish>
+			<english>prostitution</english>
+		</word>
+		<word>
+			<spanish>pornografía</spanish>
+			<english>pornography</english>
+		</word>
+		<word>
+			<spanish>violación</spanish>
+			<english>rape</english>
+		</word>
+		<word>
+			<spanish>aborto</spanish>
+			<english>abortion</english>
+		</word>
+		<word>
+			<spanish>abusos contra los derechos humanos</spanish>
+			<english>abuses against human rights</english>
+		</word>
+		<word>
+			<spanish>aborto</spanish>
+			<english>abortion</english>
+		</word>
+		<word>
+			<spanish>abuso</spanish>
+			<english>abuse</english>
+		</word>
+		<word>
+			<spanish>alcohol</spanish>
+			<english>alcohol</english>
+		</word>
+		<word>
+			<spanish>castigo</spanish>
+			<english>punishment</english>
+		</word>
+		<word>
+			<spanish>censura</spanish>
+			<english>censorship</english>
+		</word>
+		<word>
+			<spanish>clases sociales</spanish>
+			<english>social classes</english>
+		</word>
+		<word>
+			<spanish>comodidad</spanish>
+			<english>comfort</english>
+		</word>
+		<word>
+			<spanish>crimen</spanish>
+			<english>crime</english>
+		</word>
+		<word>
+			<spanish>democracia</spanish>
+			<english>democracy</english>
+		</word>
+		<word>
+			<spanish>derechos</spanish>
+			<english>rights</english>
+		</word>
+		<word>
+			<spanish>humanos</spanish>
+			<english>human</english>
+		</word>
+		<word>
+			<spanish>civilies</spanish>
+			<english>civil</english>
+		</word>
+		<word>
+			<spanish>discriminación</spanish>
+			<english>discrimination</english>
+		</word>
+		<word>
+			<spanish>desperdicio</spanish>
+			<english>waste</english>
+		</word>
+		<word>
+			<spanish>divorcio</spanish>
+			<english>divorce</english>
+		</word>
+		<word>
+			<spanish>edad</spanish>
+			<english>age</english>
+		</word>
+		<word>
+			<spanish>educación</spanish>
+			<english>education</english>
+		</word>
+		<word>
+			<spanish>bilingüe</spanish>
+			<english>bilingual</english>
+		</word>
+		<word>
+			<spanish>gratis</spanish>
+			<english>free</english>
+		</word>
+		<word>
+			<spanish>sexual</spanish>
+			<english>sex</english>
+		</word>
+		<word>
+			<spanish>eficiencia</spanish>
+			<english>efficiency</english>
+		</word>
+		<word>
+			<spanish>esclavitud</spanish>
+			<english>slavery</english>
+		</word>
+		<word>
+			<spanish>fumar</spanish>
+			<english>smoking</english>
+		</word>
+		<word>
+			<spanish>huelga</spanish>
+			<english>strike</english>
+		</word>
+		<word>
+			<spanish>humanitarismo</spanish>
+			<english>humanitarianism</english>
+		</word>
+		<word>
+			<spanish>igualdad</spanish>
+			<english>equality</english>
+		</word>
+		<word>
+			<spanish>inmigración</spanish>
+			<english>immigration</english>
+		</word>
+		<word>
+			<spanish>inscripción militar</spanish>
+			<english>military conscription</english>
+		</word>
+		<word>
+			<spanish>voluntaria</spanish>
+			<english>voluntary</english>
+		</word>
+		<word>
+			<spanish>obligatoria</spanish>
+			<english>mandatory</english>
+		</word>
+		<word>
+			<spanish>lengua oficial</spanish>
+			<english>official language</english>
+		</word>
+		<word>
+			<spanish>libertad</spanish>
+			<english>freedom</english>
+		</word>
+		<word>
+			<spanish>de expresión</spanish>
+			<english>of speech</english>
+		</word>
+		<word>
+			<spanish>de prensa</spanish>
+			<english>of the press</english>
+		</word>
+		<word>
+			<spanish>justicia social</spanish>
+			<english>social justice</english>
+		</word>
+		<word>
+			<spanish>matrimonio</spanish>
+			<english>marriage</english>
+		</word>
+		<word>
+			<spanish>medicina social</spanish>
+			<english>socialized medicine</english>
+		</word>
+		<word>
+			<spanish>moralidad</spanish>
+			<english>morality</english>
+		</word>
+		<word>
+			<spanish>oración</spanish>
+			<english>prayer</english>
+		</word>
+		<word>
+			<spanish>patriotismo</spanish>
+			<english>patriotism</english>
+		</word>
+		<word>
+			<spanish>persecución</spanish>
+			<english>persecution</english>
+		</word>
+		<word>
+			<spanish>poder</spanish>
+			<english>power</english>
+		</word>
+		<word>
+			<spanish>pornografía</spanish>
+			<english>pornography</english>
+		</word>
+		<word>
+			<spanish>sentido práctico</spanish>
+			<english>practicality</english>
+		</word>
+		<word>
+			<spanish>prejuicio</spanish>
+			<english>prejudice</english>
+		</word>
+		<word>
+			<spanish>racial</spanish>
+			<english>racial</english>
+		</word>
+		<word>
+			<spanish>religioso</spanish>
+			<english>religious</english>
+		</word>
+		<word>
+			<spanish>progreso</spanish>
+			<english>progress</english>
+		</word>
+		<word>
+			<spanish>realización</spanish>
+			<english>fulfillment</english>
+		</word>
+		<word>
+			<spanish>personal</spanish>
+			<english>personal</english>
+		</word>
+		<word>
+			<spanish>profesional</spanish>
+			<english>professional</english>
+		</word>
+		<word>
+			<spanish>reciclaje</spanish>
+			<english>recycling</english>
+		</word>
+		<word>
+			<spanish>religión</spanish>
+			<english>religion</english>
+		</word>
+		<word>
+			<spanish>responsabilidad</spanish>
+			<english>responsibility</english>
+		</word>
+		<word>
+			<spanish>seguridad</spanish>
+			<english>safety</english>
+		</word>
+		<word>
+			<spanish>separación de las iglesias y del estado</spanish>
+			<english>separation of church and state</english>
+		</word>
+		<word>
+			<spanish>tabaco tobacco</spanish>
+			<english>tobacco</english>
+		</word>
+		<word>
+			<spanish>valor del trabajo</spanish>
+			<english>work ethic</english>
+		</word>
+		<word>
+			<spanish>independencia</spanish>
+			<english>independence</english>
+		</word>
+		<word>
+			<spanish>libertad</spanish>
+			<english>freedom</english>
+		</word>
+		<word>
+			<spanish>libertad de expresión</spanish>
+			<english>freedom of speech</english>
+		</word>
+		<word>
+			<spanish>igualdad</spanish>
+			<english>equality</english>
+		</word>
+		<word>
+			<spanish>deber</spanish>
+			<english>duty</english>
+		</word>
+		<word>
+			<spanish>derecho</spanish>
+			<english>right</english>
+		</word>
+		<word>
+			<spanish>responsabilidad</spanish>
+			<english>responsibility</english>
+		</word>
+		<word>
+			<spanish>unidad</spanish>
+			<english>unity</english>
+		</word>
+		<word>
+			<spanish>debate</spanish>
+			<english>debate</english>
+		</word>
+		<word>
+			<spanish>discusión</spanish>
+			<english>discussion</english>
+		</word>
+		<word>
+			<spanish>opinión pública</spanish>
+			<english>public opinion</english>
+		</word>
+		<word>
+			<spanish>oposición</spanish>
+			<english>opposition</english>
+		</word>
+		<word>
+			<spanish>reforma</spanish>
+			<english>reform</english>
+		</word>
+		<word>
+			<spanish>investigar</spanish>
+			<english>to investigate</english>
+		</word>
+		<word>
+			<spanish>debatir</spanish>
+			<english>to debate</english>
+		</word>
+		<word>
+			<spanish>cooperar</spanish>
+			<english>to cooperate</english>
+		</word>
+		<word>
+			<spanish>derechos humanos</spanish>
+			<english>humanos human rights</english>
+		</word>
+		<word>
+			<spanish>proteger</spanish>
+			<english>to protect</english>
+		</word>
+		<word>
+			<spanish>asuntos internos</spanish>
+			<english>local affairs</english>
+		</word>
+		<word>
+			<spanish>política exterior</spanish>
+			<english>foreign policy</english>
+		</word>
+		<word>
+			<spanish>crisis</spanish>
+			<english>crisis</english>
+		</word>
+		<word>
+			<spanish>manifestación</spanish>
+			<english>demonstration</english>
+		</word>
+		<word>
+			<spanish>resistencia pasiva</spanish>
+			<english>civil disobedience</english>
+		</word>
+		<word>
+			<spanish>golpe de estado</spanish>
+			<english>coup</english>
+		</word>
+		<word>
+			<spanish>guerra civil</spanish>
+			<english>civil war</english>
+		</word>
+		<word>
+			<spanish>regionalismo</spanish>
+			<english>regionalism</english>
+		</word>
+		<word>
+			<spanish>centralismo</spanish>
+			<english>centralism</english>
+		</word>
+		<word>
+			<spanish>socialismo</spanish>
+			<english>socialism</english>
+		</word>
+		<word>
+			<spanish>comunismo</spanish>
+			<english>communism</english>
+		</word>
+		<word>
+			<spanish>capitalismo</spanish>
+			<english>capitalism</english>
+		</word>
+		<word>
+			<spanish>fascismo</spanish>
+			<english>fascism</english>
+		</word>
+		<word>
+			<spanish>imperialismo</spanish>
+			<english>imperialism</english>
+		</word>
+		<word>
+			<spanish>marxismo</spanish>
+			<english>Marxism</english>
+		</word>
+		<word>
+			<spanish>nacionalismo</spanish>
+			<english>nationalism</english>
+		</word>
+		<word>
+			<spanish>patriotismo</spanish>
+			<english>patriotism</english>
+		</word>
+		<word>
+			<spanish>liberalismo</spanish>
+			<english>liberalism</english>
+		</word>
+		<word>
+			<spanish>corrupción</spanish>
+			<english>corruption</english>
+		</word>
+		<word>
+			<spanish>confiar en</spanish>
+			<english>to trust</english>
+		</word>
+		<word>
+			<spanish>desconfiar de</spanish>
+			<english>to mistrust</english>
+		</word>
+		<word>
+			<spanish>izquierda</spanish>
+			<english>left</english>
+		</word>
+		<word>
+			<spanish>centro</spanish>
+			<english>center</english>
+		</word>
+		<word>
+			<spanish>derecha</spanish>
+			<english>right</english>
+		</word>
+		<word>
+			<spanish>liberal</spanish>
+			<english>liberal</english>
+		</word>
+		<word>
+			<spanish>progresivo</spanish>
+			<english>progressive</english>
+		</word>
+		<word>
+			<spanish>conservador</spanish>
+			<english>conservative</english>
+		</word>
+		<word>
+			<spanish>democrático</spanish>
+			<english>democratic</english>
+		</word>
+		<word>
+			<spanish>política</spanish>
+			<english>politics</english>
+		</word>
+		<word>
+			<spanish>gobierno</spanish>
+			<english>government</english>
+		</word>
+		<word>
+			<spanish>federal</spanish>
+			<english>federal</english>
+		</word>
+		<word>
+			<spanish>nacional</spanish>
+			<english>national</english>
+		</word>
+		<word>
+			<spanish>federal</spanish>
+			<english>federal</english>
+		</word>
+		<word>
+			<spanish>estatal</spanish>
+			<english>state</english>
+		</word>
+		<word>
+			<spanish>municipal</spanish>
+			<english>municipal</english>
+		</word>
+		<word>
+			<spanish>local</spanish>
+			<english>local</english>
+		</word>
+		<word>
+			<spanish>civil</spanish>
+			<english>civil</english>
+		</word>
+		<word>
+			<spanish>rama</spanish>
+			<english>branch</english>
+		</word>
+		<word>
+			<spanish>legislativa</spanish>
+			<english>legislative</english>
+		</word>
+		<word>
+			<spanish>judicial</spanish>
+			<english>judicial</english>
+		</word>
+		<word>
+			<spanish>ejecutiva</spanish>
+			<english>executive</english>
+		</word>
+		<word>
+			<spanish>la nación</spanish>
+			<english>nation</english>
+		</word>
+		<word>
+			<spanish>pueblo</spanish>
+			<english>people</english>
+		</word>
+		<word>
+			<spanish>población</spanish>
+			<english>population</english>
+		</word>
+		<word>
+			<spanish>censo</spanish>
+			<english>census</english>
+		</word>
+		<word>
+			<spanish>ciudadano</spanish>
+			<english>citizen</english>
+		</word>
+		<word>
+			<spanish>poder</spanish>
+			<english>power</english>
+		</word>
+		<word>
+			<spanish>diputado</spanish>
+			<english>deputy</english>
+		</word>
+		<word>
+			<spanish>legislador</spanish>
+			<english>legislator</english>
+		</word>
+		<word>
+			<spanish>senador</spanish>
+			<english>senator</english>
+		</word>
+		<word>
+			<spanish>representante</spanish>
+			<english>representative</english>
+		</word>
+		<word>
+			<spanish>juez</spanish>
+			<english>judge</english>
+		</word>
+		<word>
+			<spanish>presidente</spanish>
+			<english>president</english>
+		</word>
+		<word>
+			<spanish>primer ministro</spanish>
+			<english>prime minister</english>
+		</word>
+		<word>
+			<spanish>dictador</spanish>
+			<english>dictator</english>
+		</word>
+		<word>
+			<spanish>apoyo</spanish>
+			<english>support</english>
+		</word>
+		<word>
+			<spanish>proyecto</spanish>
+			<english>bill</english>
+		</word>
+		<word>
+			<spanish>ley</spanish>
+			<english>law</english>
+		</word>
+		<word>
+			<spanish>etapa</spanish>
+			<english>stage</english>
+		</word>
+		<word>
+			<spanish>apoyar</spanish>
+			<english>to support</english>
+		</word>
+		<word>
+			<spanish>aprobar</spanish>
+			<english>to approve</english>
+		</word>
+		<word>
+			<spanish>rechazar</spanish>
+			<english>to reject</english>
+		</word>
+		<word>
+			<spanish>firmar</spanish>
+			<english>to sign</english>
+		</word>
+		<word>
+			<spanish>vetar</spanish>
+			<english>to veto</english>
+		</word>
+		<word>
+			<spanish>contrarrestar</spanish>
+			<english>to override</english>
+		</word>
+		<word>
+			<spanish>originar</spanish>
+			<english>to originate</english>
+		</word>
+		<word>
+			<spanish>constitución</spanish>
+			<english>constitution</english>
+		</word>
+		<word>
+			<spanish>artículo</spanish>
+			<english>article</english>
+		</word>
+		<word>
+			<spanish>enmienda</spanish>
+			<english>amendment</english>
+		</word>
+		<word>
+			<spanish>ratificar</spanish>
+			<english>to ratify</english>
+		</word>
+		<word>
+			<spanish>establecer</spanish>
+			<english>to establish</english>
+		</word>
+		<word>
+			<spanish>Estado</spanish>
+			<english>State</english>
+		</word>
+		<word>
+			<spanish>Corona</spanish>
+			<english>Crown</english>
+		</word>
+		<word>
+			<spanish>Congreso</spanish>
+			<english>Congress</english>
+		</word>
+		<word>
+			<spanish>Senado</spanish>
+			<english>Senate</english>
+		</word>
+		<word>
+			<spanish>Cámara de Representantes</spanish>
+			<english>House of Representatives</english>
+		</word>
+		<word>
+			<spanish>Cortes</spanish>
+			<english>Parliament</english>
+		</word>
+		<word>
+			<spanish>Parlamento</spanish>
+			<english>Parliament</english>
+		</word>
+		<word>
+			<spanish>Gabinete</spanish>
+			<english>Cabinet</english>
+		</word>
+		<word>
+			<spanish>Ministerio</spanish>
+			<english>Ministry</english>
+		</word>
+		<word>
+			<spanish>la corte court</spanish>
+			<english>court</english>
+		</word>
+		<word>
+			<spanish>desacuerdo disagreement</spanish>
+			<english>disagreement</english>
+		</word>
+		<word>
+			<spanish>caso case</spanish>
+			<english>case</english>
+		</word>
+		<word>
+			<spanish>delegar to delegate</spanish>
+			<english>to delegate</english>
+		</word>
+		<word>
+			<spanish>la comisión permanente</spanish>
+			<english>standing committee</english>
+		</word>
+		<word>
+			<spanish>la comisión de conferencia</spanish>
+			<english>subcommittee</english>
+		</word>
+		<word>
+			<spanish>asuntos</spanish>
+			<english>subject, affairs</english>
+		</word>
+		<word>
+			<spanish>presupuesto</spanish>
+			<english>budget</english>
+		</word>
+		<word>
+			<spanish>ingresos</spanish>
+			<english>income</english>
+		</word>
+		<word>
+			<spanish>gastos</spanish>
+			<english>expenditures</english>
+		</word>
+		<word>
+			<spanish>impuestos</spanish>
+			<english>taxes</english>
+		</word>
+		<word>
+			<spanish>fiscal</spanish>
+			<english>fiscal</english>
+		</word>
+		<word>
+			<spanish>actual</spanish>
+			<english>present</english>
+		</word>
+		<word>
+			<spanish>corriente</spanish>
+			<english>current</english>
+		</word>
+		<word>
+			<spanish>monarquía (constitucional)</spanish>
+			<english>(constitutional) monarchy</english>
+		</word>
+		<word>
+			<spanish>democracia</spanish>
+			<english>democracy</english>
+		</word>
+		<word>
+			<spanish>dictadura</spanish>
+			<english>dictatorship</english>
+		</word>
+		<word>
+			<spanish>junta militar</spanish>
+			<english>military junta</english>
+		</word>
+		<word>
+			<spanish>república</spanish>
+			<english>republic</english>
+		</word>
+		<word>
+			<spanish>régimen</spanish>
+			<english>regime</english>
+		</word>
+		<word>
+			<spanish>anarquía</spanish>
+			<english>anarchy</english>
+		</word>
+		<word>
+			<spanish>capitalista</spanish>
+			<english>capitalistic</english>
+		</word>
+		<word>
+			<spanish>comunista</spanish>
+			<english>communist</english>
+		</word>
+		<word>
+			<spanish>socialista</spanish>
+			<english>socialist</english>
+		</word>
+		<word>
+			<spanish>fascista</spanish>
+			<english>fascist</english>
+		</word>
+		<word>
+			<spanish>franquista</spanish>
+			<english>Francoist</english>
+		</word>
+		<word>
+			<spanish>anarquista</spanish>
+			<english>anarchist</english>
+		</word>
+		<word>
+			<spanish>extremista</spanish>
+			<english>extremist</english>
+		</word>
+		<word>
+			<spanish>imperialista</spanish>
+			<english>imperialist</english>
+		</word>
+		<word>
+			<spanish>marxista</spanish>
+			<english>Marxist</english>
+		</word>
+		<word>
+			<spanish>nacionalista</spanish>
+			<english>nationalist</english>
+		</word>
+		<word>
+			<spanish>gobernar</spanish>
+			<english>to govern</english>
+		</word>
+		<word>
+			<spanish>administrar</spanish>
+			<english>to administer</english>
+		</word>
+		<word>
+			<spanish>autorizar</spanish>
+			<english>to authorize</english>
+		</word>
+		<word>
+			<spanish>dirigir</spanish>
+			<english>to direct</english>
+		</word>
+		<word>
+			<spanish>suprimir</spanish>
+			<english>to suppress</english>
+		</word>
+		<word>
+			<spanish>imponer</spanish>
+			<english>to impose</english>
+		</word>
+		<word>
+			<spanish>elección</spanish>
+			<english>election</english>
+		</word>
+		<word>
+			<spanish>primaria</spanish>
+			<english>primary (election)</english>
+		</word>
+		<word>
+			<spanish>votación general</spanish>
+			<english>general election</english>
+		</word>
+		<word>
+			<spanish>partido político</spanish>
+			<english>political party</english>
+		</word>
+		<word>
+			<spanish>partido democrático</spanish>
+			<english>Democratic Party</english>
+		</word>
+		<word>
+			<spanish>partido republicano</spanish>
+			<english>Republican Party</english>
+		</word>
+		<word>
+			<spanish>partido verde</spanish>
+			<english>Green Party</english>
+		</word>
+		<word>
+			<spanish>partido socialista</spanish>
+			<english>Socialist Party</english>
+		</word>
+		<word>
+			<spanish>partido comunista</spanish>
+			<english>Communist Party</english>
+		</word>
+		<word>
+			<spanish>mayoría</spanish>
+			<english>majority</english>
+		</word>
+		<word>
+			<spanish>minoría</spanish>
+			<english>minority</english>
+		</word>
+		<word>
+			<spanish>campaña</spanish>
+			<english>campaign</english>
+		</word>
+		<word>
+			<spanish>candidato</spanish>
+			<english>candidate</english>
+		</word>
+		<word>
+			<spanish>votantes</spanish>
+			<english>voter</english>
+		</word>
+		<word>
+			<spanish>duración del</spanish>
+			<english>cargo term</english>
+		</word>
+		<word>
+			<spanish>la votación</spanish>
+			<english>ballot</english>
+		</word>
+		<word>
+			<spanish>votar (por)</spanish>
+			<english>to vote (for)</english>
+		</word>
+		<word>
+			<spanish>elegir</spanish>
+			<english>to elect</english>
+		</word>
+		<word>
+			<spanish>escoger</spanish>
+			<english>to choose</english>
+		</word>
+		<word>
+			<spanish>ganar</spanish>
+			<english>to win</english>
+		</word>
+		<word>
+			<spanish>perder</spanish>
+			<english>to lose</english>
+		</word>
+	</vocablist>
+	<vocablist Unit="Family_and_Home">
+		<word>
+			<spanish>creencia</spanish>
+			<english>belief</english>
+		</word>
+		<word>
+			<spanish>conciencia</spanish>
+			<english>conscience</english>
+		</word>
+		<word>
+			<spanish>moralidad</spanish>
+			<english>morality</english>
+		</word>
+		<word>
+			<spanish>ateísmo</spanish>
+			<english>atheism</english>
+		</word>
+		<word>
+			<spanish>catecismo</spanish>
+			<english>catechism</english>
+		</word>
+		<word>
+			<spanish>el dogma</spanish>
+			<english>dogma</english>
+		</word>
+		<word>
+			<spanish>prefecto</spanish>
+			<english>prefect</english>
+		</word>
+		<word>
+			<spanish>mito</spanish>
+			<english>myth</english>
+		</word>
+		<word>
+			<spanish>leyenda</spanish>
+			<english>legend</english>
+		</word>
+		<word>
+			<spanish>milagro</spanish>
+			<english>miracle</english>
+		</word>
+		<word>
+			<spanish>redención</spanish>
+			<english>redemption</english>
+		</word>
+		<word>
+			<spanish>vida eterna</spanish>
+			<english>eternal life</english>
+		</word>
+		<word>
+			<spanish>paraíso</spanish>
+			<english>paradise</english>
+		</word>
+		<word>
+			<spanish>cielo</spanish>
+			<english>heaven</english>
+		</word>
+		<word>
+			<spanish>purgatorio</spanish>
+			<english>purgatory</english>
+		</word>
+		<word>
+			<spanish>infierno</spanish>
+			<english>hell</english>
+		</word>
+		<word>
+			<spanish>fe</spanish>
+			<english>faith</english>
+		</word>
+		<word>
+			<spanish>esperanza</spanish>
+			<english>hope</english>
+		</word>
+		<word>
+			<spanish>caridad</spanish>
+			<english>charity</english>
+		</word>
+		<word>
+			<spanish>virtud</spanish>
+			<english>virtue</english>
+		</word>
+		<word>
+			<spanish>pecado</spanish>
+			<english>sin</english>
+		</word>
+		<word>
+			<spanish>soberbia</spanish>
+			<english>pride</english>
+		</word>
+		<word>
+			<spanish>humildad</spanish>
+			<english>humility</english>
+		</word>
+		<word>
+			<spanish>avaricia</spanish>
+			<english>greed</english>
+		</word>
+		<word>
+			<spanish>generosidad</spanish>
+			<english>generosity</english>
+		</word>
+		<word>
+			<spanish>lujuria</spanish>
+			<english>lust</english>
+		</word>
+		<word>
+			<spanish>castidad</spanish>
+			<english>chastity</english>
+		</word>
+		<word>
+			<spanish>ira</spanish>
+			<english>anger</english>
+		</word>
+		<word>
+			<spanish>paciencia</spanish>
+			<english>patience</english>
+		</word>
+		<word>
+			<spanish>gula</spanish>
+			<english>gluttony</english>
+		</word>
+		<word>
+			<spanish>templanza</spanish>
+			<english>temperance</english>
+		</word>
+		<word>
+			<spanish>envidia</spanish>
+			<english>envy</english>
+		</word>
+		<word>
+			<spanish>caridad</spanish>
+			<english>charity</english>
+		</word>
+		<word>
+			<spanish>pereza</spanish>
+			<english>laziness</english>
+		</word>
+		<word>
+			<spanish>diligencia</spanish>
+			<english>diligence</english>
+		</word>
+		<word>
+			<spanish>oración</spanish>
+			<english>prayer</english>
+		</word>
+		<word>
+			<spanish>ayuno</spanish>
+			<english>fasting</english>
+		</word>
+		<word>
+			<spanish>limosna</spanish>
+			<english>almsgiving</english>
+		</word>
+		<word>
+			<spanish>sacrificio</spanish>
+			<english>sacrifice</english>
+		</word>
+		<word>
+			<spanish>deber</spanish>
+			<english>duty</english>
+		</word>
+		<word>
+			<spanish>confesión</spanish>
+			<english>confession</english>
+		</word>
+		<word>
+			<spanish>creación</spanish>
+			<english>creation</english>
+		</word>
+		<word>
+			<spanish>conversión</spanish>
+			<english>conversion</english>
+		</word>
+		<word>
+			<spanish>fiel</spanish>
+			<english>faithful</english>
+		</word>
+		<word>
+			<spanish>santo</spanish>
+			<english>holy</english>
+		</word>
+		<word>
+			<spanish>sagrado</spanish>
+			<english>sacred</english>
+		</word>
+		<word>
+			<spanish>religioso</spanish>
+			<english>religious</english>
+		</word>
+		<word>
+			<spanish>seglar</spanish>
+			<english>secular</english>
+		</word>
+		<word>
+			<spanish>supersticioso</spanish>
+			<english>superstitious</english>
+		</word>
+		<word>
+			<spanish>místico</spanish>
+			<english>mystical</english>
+		</word>
+		<word>
+			<spanish>espiritual</spanish>
+			<english>spiritual</english>
+		</word>
+		<word>
+			<spanish>ético</spanish>
+			<english>ethical</english>
+		</word>
+		<word>
+			<spanish>herético</spanish>
+			<english>heretical</english>
+		</word>
+		<word>
+			<spanish>teológico</spanish>
+			<english>theological</english>
+		</word>
+		<word>
+			<spanish>tradicional</spanish>
+			<english>traditional</english>
+		</word>
+		<word>
+			<spanish>conservativo</spanish>
+			<english>conservative</english>
+		</word>
+		<word>
+			<spanish>liberal</spanish>
+			<english>liberal</english>
+		</word>
+		<word>
+			<spanish>radical</spanish>
+			<english>radical</english>
+		</word>
+		<word>
+			<spanish>altruista</spanish>
+			<english>altruistic</english>
+		</word>
+		<word>
+			<spanish>astuto</spanish>
+			<english>astute</english>
+		</word>
+		<word>
+			<spanish>audaz</spanish>
+			<english>bold</english>
+		</word>
+		<word>
+			<spanish>atrevido</spanish>
+			<english>brash</english>
+		</word>
+		<word>
+			<spanish>descarado</spanish>
+			<english>brazen</english>
+		</word>
+		<word>
+			<spanish>envidioso</spanish>
+			<english>envious</english>
+		</word>
+		<word>
+			<spanish>insolente</spanish>
+			<english>impudent</english>
+		</word>
+		<word>
+			<spanish>presuntuoso</spanish>
+			<english>presumptuous</english>
+		</word>
+		<word>
+			<spanish>presuntuoso</spanish>
+			<english>snobbish</english>
+		</word>
+		<word>
+			<spanish>pretencioso</spanish>
+			<english>pretentious</english>
+		</word>
+		<word>
+			<spanish>sagaz</spanish>
+			<english>shrewd</english>
+		</word>
+		<word>
+			<spanish>vanidoso</spanish>
+			<english>vain</english>
+		</word>
+	</vocablist>
+	<vocablist Unit="Meetings_and_Personal_Needs">
+		<word>
+			<spanish>enfermedad</spanish>
+			<english>illness</english>
+		</word>
+		<word>
+			<spanish>leve</spanish>
+			<english>minor</english>
+		</word>
+		<word>
+			<spanish>grave</spanish>
+			<english>serious</english>
+		</word>
+		<word>
+			<spanish>síntomas</spanish>
+			<english>symptoms</english>
+		</word>
+		<word>
+			<spanish>fiebre</spanish>
+			<english>fever</english>
+		</word>
+		<word>
+			<spanish>tos</spanish>
+			<english>cough</english>
+		</word>
+		<word>
+			<spanish>mareo</spanish>
+			<english>nausea</english>
+		</word>
+		<word>
+			<spanish>dolor</spanish>
+			<english>ache</english>
+		</word>
+		<word>
+			<spanish>pus</spanish>
+			<english>pus</english>
+		</word>
+		<word>
+			<spanish>inflamación</spanish>
+			<english>swelling</english>
+		</word>
+		<word>
+			<spanish>estar estreñido</spanish>
+			<english>to be constipated</english>
+		</word>
+		<word>
+			<spanish>resfriado</spanish>
+			<english>cold</english>
+		</word>
+		<word>
+			<spanish>la gripe</spanish>
+			<english>influenza</english>
+		</word>
+		<word>
+			<spanish>diarrea</spanish>
+			<english>diarrhea</english>
+		</word>
+		<word>
+			<spanish>infección</spanish>
+			<english>infection</english>
+		</word>
+		<word>
+			<spanish>alergia</spanish>
+			<english>allergy</english>
+		</word>
+		<word>
+			<spanish>asma</spanish>
+			<english>asthma</english>
+		</word>
+		<word>
+			<spanish>virus</spanish>
+			<english>virus</english>
+		</word>
+		<word>
+			<spanish>hongo</spanish>
+			<english>fungus</english>
+		</word>
+		<word>
+			<spanish>fractura</spanish>
+			<english>fracture</english>
+		</word>
+		<word>
+			<spanish>cáncer</spanish>
+			<english>cancer</english>
+		</word>
+		<word>
+			<spanish>infarto</spanish>
+			<english>heart attack</english>
+		</word>
+		<word>
+			<spanish>ataque</spanish>
+			<english>cerebral stroke</english>
+		</word>
+		<word>
+			<spanish>diabetes</spanish>
+			<english>diabetes</english>
+		</word>
+		<word>
+			<spanish>presión alta</spanish>
+			<english>high blood pressure</english>
+		</word>
+		<word>
+			<spanish>VIH positivo</spanish>
+			<english>HIV positive</english>
+		</word>
+		<word>
+			<spanish>el SIDA</spanish>
+			<english>AIDS</english>
+		</word>
+		<word>
+			<spanish>malari</spanish>
+			<english>malaria</english>
+		</word>
+		<word>
+			<spanish>depresión</spanish>
+			<english>depression</english>
+		</word>
+		<word>
+			<spanish>abuso de drogas</spanish>
+			<english>drug abuse</english>
+		</word>
+		<word>
+			<spanish>apendicitis</spanish>
+			<english>appendicitis</english>
+		</word>
+		<word>
+			<spanish>artriti</spanish>
+			<english>arthritis</english>
+		</word>
+		<word>
+			<spanish>bronquitis</spanish>
+			<english>bronchitis</english>
+		</word>
+		<word>
+			<spanish>epilepsia</spanish>
+			<english>epilepsy</english>
+		</word>
+		<word>
+			<spanish>hepatitis</spanish>
+			<english>hepatitis</english>
+		</word>
+		<word>
+			<spanish>hernia</spanish>
+			<english>hernia</english>
+		</word>
+		<word>
+			<spanish>jaqueca</spanish>
+			<english>migraine headache</english>
+		</word>
+		<word>
+			<spanish>laringitis</spanish>
+			<english>laryngitis</english>
+		</word>
+		<word>
+			<spanish>paperas</spanish>
+			<english>mumps</english>
+		</word>
+		<word>
+			<spanish>parálisis</spanish>
+			<english>paralysis</english>
+		</word>
+		<word>
+			<spanish>pulmonía</spanish>
+			<english>pneumonia</english>
+		</word>
+		<word>
+			<spanish>sarampión</spanish>
+			<english>measles</english>
+		</word>
+		<word>
+			<spanish>tuberculosis</spanish>
+			<english>tuberculosis</english>
+		</word>
+		<word>
+			<spanish>varicela</spanish>
+			<english>chicken pox</english>
+		</word>
+		<word>
+			<spanish>cicatriz</spanish>
+			<english>scar</english>
+		</word>
+		<word>
+			<spanish>picadura</spanish>
+			<english>bite</english>
+		</word>
+		<word>
+			<spanish>sufrir</spanish>
+			<english>to suffer</english>
+		</word>
+		<word>
+			<spanish>sudar</spanish>
+			<english>to sweat</english>
+		</word>
+		<word>
+			<spanish>vomitar</spanish>
+			<english>to throw up</english>
+		</word>
+		<word>
+			<spanish>estornudar</spanish>
+			<english>to sneeze</english>
+		</word>
+		<word>
+			<spanish>toser</spanish>
+			<english>to cough</english>
+		</word>
+		<word>
+			<spanish>enfermarse</spanish>
+			<english>to get sick</english>
+		</word>
+		<word>
+			<spanish>desmayarse</spanish>
+			<english>to faint</english>
+		</word>
+		<word>
+			<spanish>quemarse</spanish>
+			<english>to burn oneself</english>
+		</word>
+		<word>
+			<spanish>dañar</spanish>
+			<english>to injure</english>
+		</word>
+		<word>
+			<spanish>sangrar</spanish>
+			<english>to bleed</english>
+		</word>
+		<word>
+			<spanish>doloroso</spanish>
+			<english>painful</english>
+		</word>
+		<word>
+			<spanish>mareado</spanish>
+			<english>dizzy</english>
+		</word>
+		<word>
+			<spanish>hinchado</spanish>
+			<english>swollen</english>
+		</word>
+		<word>
+			<spanish>ciego</spanish>
+			<english>blind</english>
+		</word>
+		<word>
+			<spanish>sordo</spanish>
+			<english>deaf</english>
+		</word>
+		<word>
+			<spanish>mudo</spanish>
+			<english>mute</english>
+		</word>
+		<word>
+			<spanish>especialista</spanish>
+			<english>specialist</english>
+		</word>
+		<word>
+			<spanish>anestesista</spanish>
+			<english>anesthetist</english>
+		</word>
+		<word>
+			<spanish>cardiólogo</spanish>
+			<english>cardiologist</english>
+		</word>
+		<word>
+			<spanish>dermatólogo</spanish>
+			<english>dermatologist</english>
+		</word>
+		<word>
+			<spanish>ginecólogo</spanish>
+			<english>gynecologist</english>
+		</word>
+		<word>
+			<spanish>internista</spanish>
+			<english>internist</english>
+		</word>
+		<word>
+			<spanish>neurólogo</spanish>
+			<english>neurologist</english>
+		</word>
+		<word>
+			<spanish>oftalmólogo</spanish>
+			<english>ophthalmologist</english>
+		</word>
+		<word>
+			<spanish>pediatra</spanish>
+			<english>pediatrician</english>
+		</word>
+		<word>
+			<spanish>pedicuro</spanish>
+			<english>podiatrist</english>
+		</word>
+		<word>
+			<spanish>psiquiatra</spanish>
+			<english>psychiatrist</english>
+		</word>
+		<word>
+			<spanish>urólogo</spanish>
+			<english>urologist</english>
+		</word>
+		<word>
+			<spanish>cirujano</spanish>
+			<english>surgeon</english>
+		</word>
+	</vocablist>
+	<vocablist Unit="World">
+		<word>
+			<spanish>cráteres</spanish>
+			<english>craters</english>
+		</word>
+		<word>
+			<spanish>gravedad</spanish>
+			<english>gravity</english>
+		</word>
+		<word>
+			<spanish>eje</spanish>
+			<english>axis</english>
+		</word>
+		<word>
+			<spanish>astro</spanish>
+			<english>star</english>
+		</word>
+		<word>
+			<spanish>astro</spanish>
+			<english>heavenly body</english>
+		</word>
+		<word>
+			<spanish>astronauta</spanish>
+			<english>astronaut</english>
+		</word>
+		<word>
+			<spanish>cohete</spanish>
+			<english>rocket</english>
+		</word>
+		<word>
+			<spanish>transbordador espacial</spanish>
+			<english>space shuttle</english>
+		</word>
+		<word>
+			<spanish>satélite</spanish>
+			<english>satellite</english>
+		</word>
+		<word>
+			<spanish>asteroide</spanish>
+			<english>asteroid</english>
+		</word>
+		<word>
+			<spanish>Mercurio</spanish>
+			<english>Mercury</english>
+		</word>
+		<word>
+			<spanish>Venus</spanish>
+			<english>Venus</english>
+		</word>
+		<word>
+			<spanish>Tierra</spanish>
+			<english>Earth</english>
+		</word>
+		<word>
+			<spanish>Marte</spanish>
+			<english>Mars</english>
+		</word>
+		<word>
+			<spanish>Júpiter</spanish>
+			<english>Jupiter</english>
+		</word>
+		<word>
+			<spanish>Saturno</spanish>
+			<english>Saturn</english>
+		</word>
+		<word>
+			<spanish>Urano</spanish>
+			<english>Uranus</english>
+		</word>
+		<word>
+			<spanish>Neptuno</spanish>
+			<english>Neptune</english>
+		</word>
+		<word>
+			<spanish>Plutón</spanish>
+			<english>Pluto</english>
+		</word>
+		<word>
+			<spanish>Capricornio</spanish>
+			<english>Capricorn</english>
+		</word>
+		<word>
+			<spanish>Acuario</spanish>
+			<english>Aquarius</english>
+		</word>
+		<word>
+			<spanish>Piscis</spanish>
+			<english>Pisces</english>
+		</word>
+		<word>
+			<spanish>Aries</spanish>
+			<english>Aries</english>
+		</word>
+		<word>
+			<spanish>Tauro</spanish>
+			<english>Taurus</english>
+		</word>
+		<word>
+			<spanish>Géminis</spanish>
+			<english>Gemini</english>
+		</word>
+		<word>
+			<spanish>Cáncer</spanish>
+			<english>Cancer</english>
+		</word>
+		<word>
+			<spanish>Leo</spanish>
+			<english>Leo</english>
+		</word>
+		<word>
+			<spanish>Virgo</spanish>
+			<english>Virgo</english>
+		</word>
+		<word>
+			<spanish>Libra</spanish>
+			<english>Libra</english>
+		</word>
+		<word>
+			<spanish>Escorpión</spanish>
+			<english>Scorpio</english>
+		</word>
+		<word>
+			<spanish>Sagitario</spanish>
+			<english>Sagittarius</english>
+		</word>
+		<word>
+			<spanish>Bahía del Hudson</spanish>
+			<english>Hudson Bay</english>
+		</word>
+		<word>
+			<spanish>Mar Báltico</spanish>
+			<english>Baltic Sea</english>
+		</word>
+		<word>
+			<spanish>Mar Negro</spanish>
+			<english>Black Sea</english>
+		</word>
+		<word>
+			<spanish>Mar Caspiano</spanish>
+			<english>Caspian Sea</english>
+		</word>
+		<word>
+			<spanish>Mar Arábigo</spanish>
+			<english>Arabian Sea</english>
+		</word>
+		<word>
+			<spanish>Mar de Bering</spanish>
+			<english>Bering Sea</english>
+		</word>
+		<word>
+			<spanish>Mar de Japón</spanish>
+			<english>Sea of Japan</english>
+		</word>
+		<word>
+			<spanish>Mar Amarillo</spanish>
+			<english>Yellow Sea</english>
+		</word>
+		<word>
+			<spanish>Mar del Este de China</spanish>
+			<english>East China Sea</english>
+		</word>
+		<word>
+			<spanish>Mar del Sur de China</spanish>
+			<english>South China Sea</english>
+		</word>
+		<word>
+			<spanish>Himalayas</spanish>
+			<english>Himalayas</english>
+		</word>
+		<word>
+			<spanish>Desierto Atacama</spanish>
+			<english>Atacama Desert</english>
+		</word>
+		<word>
+			<spanish>Desierto Sahara</spanish>
+			<english>Sahara Desert</english>
+		</word>
+		<word>
+			<spanish>Desierto Gobi</spanish>
+			<english>Gobi Desert</english>
+		</word>
+		<word>
+			<spanish>Río Yukón</spanish>
+			<english>Yukon River</english>
+		</word>
+		<word>
+			<spanish>Río Paraná</spanish>
+			<english>Parana River</english>
+		</word>
+		<word>
+			<spanish>Río Niger</spanish>
+			<english>Niger River</english>
+		</word>
+		<word>
+			<spanish>Río Congo</spanish>
+			<english>Congo River</english>
+		</word>
+		<word>
+			<spanish>Río Ganges</spanish>
+			<english>Ganges River</english>
+		</word>
+		<word>
+			<spanish>Río Huang</spanish>
+			<english>Huang River</english>
+		</word>
+		<word>
+			<spanish>Río Yangtzé</spanish>
+			<english>Yangtze River</english>
+		</word>
+	</vocablist>
+	<vocablist Unit="World_of_Work">
+		<word>
+			<spanish>banco</spanish>
+			<english>bank</english>
+		</word>
+		<word>
+			<spanish>billete</spanish>
+			<english>bill, bank note</english>
+		</word>
+		<word>
+			<spanish>caja</spanish>
+			<english>cashier counter</english>
+		</word>
+		<word>
+			<spanish>cajero</spanish>
+			<english>cashier</english>
+		</word>
+		<word>
+			<spanish>cambio</spanish>
+			<english>exchange rate</english>
+		</word>
+		<word>
+			<spanish>cheque</spanish>
+			<english>check</english>
+		</word>
+		<word>
+			<spanish>cheque de viajero</spanish>
+			<english>traveler's check</english>
+		</word>
+		<word>
+			<spanish>comisión</spanish>
+			<english>commission</english>
+		</word>
+		<word>
+			<spanish>cuenta</spanish>
+			<english>account</english>
+		</word>
+		<word>
+			<spanish>cuenta corriente</spanish>
+			<english>checking account</english>
+		</word>
+		<word>
+			<spanish>cuenta de ahorros</spanish>
+			<english>savings account</english>
+		</word>
+		<word>
+			<spanish>depósito</spanish>
+			<english>deposit</english>
+		</word>
+		<word>
+			<spanish>dinero</spanish>
+			<english>money</english>
+		</word>
+		<word>
+			<spanish>dinero en efectivo</spanish>
+			<english>cash</english>
+		</word>
+		<word>
+			<spanish>fecha de vencimiento</spanish>
+			<english>due date</english>
+		</word>
+		<word>
+			<spanish>hipoteca</spanish>
+			<english>mortgage</english>
+		</word>
+		<word>
+			<spanish>interés</spanish>
+			<english>interest</english>
+		</word>
+		<word>
+			<spanish>letrero</spanish>
+			<english>sign</english>
+		</word>
+		<word>
+			<spanish>libreta</spanish>
+			<english>passbook, bank book</english>
+		</word>
+		<word>
+			<spanish>moneda</spanish>
+			<english>coin</english>
+		</word>
+		<word>
+			<spanish>pago inicial</spanish>
+			<english>down payment</english>
+		</word>
+		<word>
+			<spanish>pago mensual</spanish>
+			<english>monthly payment</english>
+		</word>
+		<word>
+			<spanish>préstamo</spanish>
+			<english>loan</english>
+		</word>
+		<word>
+			<spanish>saldo</spanish>
+			<english>balance</english>
+		</word>
+		<word>
+			<spanish>suelto</spanish>
+			<english>change</english>
+		</word>
+		<word>
+			<spanish>talonario</spanish>
+			<english>checkbook</english>
+		</word>
+		<word>
+			<spanish>tasa de interés</spanish>
+			<english>interest rate</english>
+		</word>
+		<word>
+			<spanish>abrir</spanish>
+			<english>to open</english>
+		</word>
+		<word>
+			<spanish>ahorrar</spanish>
+			<english>to save</english>
+		</word>
+		<word>
+			<spanish>cambiar</spanish>
+			<english>to change</english>
+		</word>
+		<word>
+			<spanish>cargar</spanish>
+			<english>to charge</english>
+		</word>
+		<word>
+			<spanish>cobrar un cheque</spanish>
+			<english>to cash a check</english>
+		</word>
+		<word>
+			<spanish>depositar</spanish>
+			<english>to deposit</english>
+		</word>
+		<word>
+			<spanish>endosar</spanish>
+			<english>to endorse</english>
+		</word>
+		<word>
+			<spanish>ingresar</spanish>
+			<english>to deposit (money or funds)</english>
+		</word>
+		<word>
+			<spanish>pagar</spanish>
+			<english>to pay</english>
+		</word>
+		<word>
+			<spanish>contado</spanish>
+			<english>cash (one lump sum)</english>
+		</word>
+		<word>
+			<spanish>plazos</spanish>
+			<english>in installments</english>
+		</word>
+		<word>
+			<spanish>quitar</spanish>
+			<english>to take out</english>
+		</word>
+		<word>
+			<spanish>retirar</spanish>
+			<english>to withdraw</english>
+		</word>
+		<word>
+			<spanish>sacar</spanish>
+			<english>to take out</english>
+		</word>
+		<word>
+			<spanish>contado</spanish>
+			<english>in cash</english>
+		</word>
+		<word>
+			<spanish>economía</spanish>
+			<english>economy</english>
+		</word>
+		<word>
+			<spanish>inflación</spanish>
+			<english>inflation</english>
+		</word>
+		<word>
+			<spanish>comercio</spanish>
+			<english>commerce, trade</english>
+		</word>
+		<word>
+			<spanish>negocio</spanish>
+			<english>business</english>
+		</word>
+		<word>
+			<spanish>compañía</spanish>
+			<english>company</english>
+		</word>
+		<word>
+			<spanish>empresa</spanish>
+			<english>company</english>
+		</word>
+		<word>
+			<spanish>departamento</spanish>
+			<english>department</english>
+		</word>
+		<word>
+			<spanish>la sucursal</spanish>
+			<english>branch</english>
+		</word>
+		<word>
+			<spanish>mercancía</spanish>
+			<english>goods</english>
+		</word>
+		<word>
+			<spanish>producto</spanish>
+			<english>product</english>
+		</word>
+		<word>
+			<spanish>materias</spanish>
+			<english>raw materials</english>
+		</word>
+		<word>
+			<spanish>servicio</spanish>
+			<english>service</english>
+		</word>
+		<word>
+			<spanish>venta</spanish>
+			<english>sales</english>
+		</word>
+		<word>
+			<spanish>compra</spanish>
+			<english>purchase, buying</english>
+		</word>
+		<word>
+			<spanish>acuerdo</spanish>
+			<english>agreement</english>
+		</word>
+		<word>
+			<spanish>contrato</spanish>
+			<english>contract</english>
+		</word>
+		<word>
+			<spanish>pedido</spanish>
+			<english>order</english>
+		</word>
+		<word>
+			<spanish>factura</spanish>
+			<english>invoice, bill</english>
+		</word>
+		<word>
+			<spanish>impuesto</spanish>
+			<english>tax</english>
+		</word>
+		<word>
+			<spanish>bienes</spanish>
+			<english>assets</english>
+		</word>
+		<word>
+			<spanish>deudas</spanish>
+			<english>liabilities</english>
+		</word>
+		<word>
+			<spanish>capital</spanish>
+			<english>capital</english>
+		</word>
+		<word>
+			<spanish>ingresos</spanish>
+			<english>income</english>
+		</word>
+		<word>
+			<spanish>gastos</spanish>
+			<english>expense</english>
+		</word>
+		<word>
+			<spanish>exportación</spanish>
+			<english>export</english>
+		</word>
+		<word>
+			<spanish>exportar</spanish>
+			<english>to export</english>
+		</word>
+		<word>
+			<spanish>importación</spanish>
+			<english>import</english>
+		</word>
+		<word>
+			<spanish>importar</spanish>
+			<english>to import</english>
+		</word>
+		<word>
+			<spanish>empresario</spanish>
+			<english>entrepreneur</english>
+		</word>
+		<word>
+			<spanish>gerente</spanish>
+			<english>manager</english>
+		</word>
+		<word>
+			<spanish>consumir</spanish>
+			<english>to consume, use</english>
+		</word>
+		<word>
+			<spanish>suministrar</spanish>
+			<english>to supply, furnish</english>
+		</word>
+		<word>
+			<spanish>firmar</spanish>
+			<english>to sign</english>
+		</word>
+		<word>
+			<spanish>fabricar</spanish>
+			<english>to manufacture</english>
+		</word>
+		<word>
+			<spanish>producir</spanish>
+			<english>to produce</english>
+		</word>
+		<word>
+			<spanish>apartado postal</spanish>
+			<english>post office box</english>
+		</word>
+		<word>
+			<spanish>balanza</spanish>
+			<english>scale</english>
+		</word>
+		<word>
+			<spanish>buzón</spanish>
+			<english>mail box</english>
+		</word>
+		<word>
+			<spanish>carta</spanish>
+			<english>letter</english>
+		</word>
+		<word>
+			<spanish>código postal</spanish>
+			<english>zip code</english>
+		</word>
+		<word>
+			<spanish>correo</spanish>
+			<english>post office</english>
+		</word>
+		<word>
+			<spanish>aéreo</spanish>
+			<english>air</english>
+		</word>
+		<word>
+			<spanish>certificado</spanish>
+			<english>certified</english>
+		</word>
+		<word>
+			<spanish>regular</spanish>
+			<english>regular (surface)</english>
+		</word>
+		<word>
+			<spanish>destinatario</spanish>
+			<english>receiver (of the mail)</english>
+		</word>
+		<word>
+			<spanish>dirección</spanish>
+			<english>address</english>
+		</word>
+		<word>
+			<spanish>estampilla</spanish>
+			<english>stamp</english>
+		</word>
+		<word>
+			<spanish>franqueo</spanish>
+			<english>postage</english>
+		</word>
+		<word>
+			<spanish>giro postal</spanish>
+			<english>money order</english>
+		</word>
+		<word>
+			<spanish>el paquete</spanish>
+			<english>package</english>
+		</word>
+		<word>
+			<spanish>remitente</spanish>
+			<english>remitente</english>
+		</word>
+		<word>
+			<spanish>sello</spanish>
+			<english>stamp</english>
+		</word>
+		<word>
+			<spanish>sobre</spanish>
+			<english>envelope</english>
+		</word>
+		<word>
+			<spanish>tarjeta postal</spanish>
+			<english>window</english>
+		</word>
+		<word>
+			<spanish>ventanilla</spanish>
+			<english>window (for selling tickets)</english>
+		</word>
+		<word>
+			<spanish>asegurar</spanish>
+			<english>to insure</english>
+		</word>
+		<word>
+			<spanish>enviar</spanish>
+			<english>to send</english>
+		</word>
+		<word>
+			<spanish>llenar</spanish>
+			<english>to fill out</english>
+		</word>
+		<word>
+			<spanish>mandar</spanish>
+			<english>to send</english>
+		</word>
+		<word>
+			<spanish>pesar</spanish>
+			<english>to weigh</english>
+		</word>
+		<word>
+			<spanish>repartir</spanish>
+			<english>to deliver</english>
+		</word>
+		<word>
+			<spanish>tardar</spanish>
+			<english>to take (in the sense of time)</english>
+		</word>
+		<word>
+			<spanish>por correo aéreo</spanish>
+			<english>by air mail</english>
+		</word>
+		<word>
+			<spanish>por barco</spanish>
+			<english>by boat</english>
+		</word>
+		<word>
+			<spanish>frágil</spanish>
+			<english>fragile</english>
+		</word>
+	</vocablist>
+</vocab>
